@@ -51,6 +51,10 @@ No environment variables or secrets required!
 │   ├── Stats.tsx            # Statistics
 │   └── Logo.tsx             # Placeholder logo
 ├── public/                  # Static assets
+├── docs/
+│   ├── DESIGN_SYSTEM.md     # Colors, typography, spacing
+│   ├── ACCESSIBILITY.md     # A11y guidelines
+│   └── ICONS.md             # Icon usage
 └── AGENTS.md                # AI usage guidelines
 ```
 
@@ -134,6 +138,14 @@ No environment variables or secrets required!
 - **Styling:** Tailwind CSS
 - **Language:** TypeScript
 - **Icons:** Lucide React
+
+## 📚 Design System Reference
+
+Check out the `docs/` folder for detailed guidelines:
+
+- **[DESIGN_SYSTEM.md](./docs/DESIGN_SYSTEM.md)** - Colors, typography, spacing, components
+- **[ACCESSIBILITY.md](./docs/ACCESSIBILITY.md)** - WCAG 2.1 compliance guidelines
+- **[ICONS.md](./docs/ICONS.md)** - Icon library usage
 
 ## 📝 License
 
